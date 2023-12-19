@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @takshrana
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
+- 👀 I’m a Python Developer
+- 🌱 I’m currently learning DJANGO
 - 📫 How to reach me : ranataksh03@gmail.com
 
 <!---
